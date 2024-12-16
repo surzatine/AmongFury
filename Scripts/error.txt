@@ -1,0 +1,5 @@
+UriFormatException: Invalid URI: The hostname could not be parsed.
+UnityEngineInternal.WebRequestUtils.MakeInitialUrl (System.String targetUrl, System.String localUrl) (at <f151a9851e9b4518a1ac495c9c0b1941>:0)
+UnityEngine.Networking.UnityWebRequest.set_url (System.String value) (at <f151a9851e9b4518a1ac495c9c0b1941>:0)
+UnityEngine.Networking.UnityWebRequest..ctor (System.String url, System.String method) (at <f151a9851e9b4518a1ac495c9c0b1941>:0)
+UnityEngine.Networking.UnityWebRequest.Post (System.String uri, System.String postData, System.String contentType) (at <f151a9851e9b4518a1ac495c9c0b1941>:0)

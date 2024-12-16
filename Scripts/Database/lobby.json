@@ -1,0 +1,17 @@
+{
+    "room_id": "1",
+    "player": [
+        {
+            "user_id": 1,
+            "username": "sushan"
+        },
+        {
+            "user_id": 1,
+            "username": "sushan"
+        },
+        {
+            "user_id": 1,
+            "username": "sushan"
+        }
+    ]
+}
